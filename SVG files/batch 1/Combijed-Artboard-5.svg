@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1{fill:#000000;stroke:#000000;stroke-width:3;stroke-miterlimit:10}
+      .cls-2{fill:#000000;stroke:#000000;stroke-miterlimit:10}
+      .cls-3{font-family:&apos;Courier New&apos;, monospace;font-size:12px;font-weight:bold;fill:#000000}
+      .cls-4{font-family:&apos;Courier New&apos;, monospace;font-size:12px;fill:#000000}
+    </style>
+  </defs>
+  <title>Artboard 5</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <polyline points="686,927 920,693 704,909" class="cls-1"/>
+    <g>
+      <g>
+        <path d="M29 85.5 C29 48.221 59.221 18 96.5 18 C133.779 18 164 48.221 164 85.5 C164 122.779 133.779 153 96.5 153 C59.221 153 29 122.779 29 85.5 Z M41 87 C41 117.376 65.624 142 96 142 L96 142 C126.376 142 151 117.376 151 87 C151 56.624 126.376 32 96 32 C65.624 32 41 56.624 41 87 Z" class="cls-2"/>
+        <g>
+          <g>
+            <path d="M1028 135 L1028 1035 L128 1035 L128 135 Z M1003 1010 L1003 160 L153 160 L153 1010 Z" class="cls-2"/>
+            <path d="M209.815 522 L209.815 204.148 L527.667 204.148 L527.667 522 Z M218.644 212.977 L218.644 513.171 L518.837 513.171 L518.837 212.977 Z" class="cls-2"/>
+            <path d="M209.815 956.852 L209.815 639 L527.667 639 L527.667 956.852 Z M218.644 647.829 L218.644 948.023 L518.837 948.023 L518.837 647.829 Z" class="cls-2"/>
+            <path d="M641.815 963 L641.815 645.148 L959.667 645.148 L959.667 963 Z M650.644 653.977 L650.644 954.171 L950.837 954.171 L950.837 653.977 Z" class="cls-2"/>
+            <path d="M641.815 515.852 L641.815 198 L959.667 198 L959.667 515.852 Z M650.644 206.829 L650.644 507.023 L950.837 507.023 L950.837 206.829 Z" class="cls-2"/>
+          </g>
+          <text transform="matrix(9.736 -9.736 9.736 9.736 288.262 495.917)" x="0" y="0" xml:space="preserve" class="cls-3"><tspan x="0" y="0">404</tspan></text>
+          <text transform="matrix(5.828 -5.828 5.828 5.828 690.226 499.047)" x="0" y="0" xml:space="preserve" class="cls-3"><tspan x="0" y="0">CTRL+Z</tspan></text>
+          <text transform="matrix(19.197 -19.197 19.197 19.197 319.787 902.822)" x="0" y="0" xml:space="preserve" class="cls-3"><tspan x="0" y="0">;</tspan></text>
+          <text transform="matrix(4.857 -4.857 4.857 4.857 688.519 904.36)" x="0" y="0" xml:space="preserve" class="cls-3"><tspan x="0" y="0">CTRL+C</tspan></text>
+          <text transform="matrix(4.857 -4.857 4.857 4.857 745.519 957.499)" x="0" y="0" xml:space="preserve" class="cls-3"><tspan x="0" y="0">CTRL+V</tspan></text>
+          <text transform="matrix(6.638 0 0 6.638 159.585 615.08)" x="0" y="0" xml:space="preserve" class="cls-4"><tspan x="0" y="0">Li-93x46</tspan></text>
+          <text transform="matrix(0 -6.561 6.561 0 608.356 846)" x="0" y="0" xml:space="preserve" class="cls-4"><tspan x="0" y="0">aymanali_093</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
